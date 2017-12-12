@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Give Your Cities Some Character 
+title: Give Your Cities Some Character
+published: true
 ---
 
 <p>"Man, we're hurting. Let's go back to town and heal up."</p><p>"Yeah, I want to buy some better armor while we're at it."</p><p>"And I need to get some spell components."</p><p>"Hmm... I guess I could pick up a few gp's picking pockets. Let's go!"</p><p>You've spent hours detailing the dungeon down to exactly how many copper pieces each kobold is carrying in his pocket, but the nearest city is just a dot on the map with a   name next to it. Running a roleplaying session in a city can be difficult when you have to make up the details on the fly and this can lead to having bland generic cities except for the one or   two that you may have detailed descriptions for. Oh, you could use some random city generation tables, but most take too long, involve lots of tedious dice rolling and   chart referencing, and provide far more detail than is needed for the average game session. What you need is a fast and easy city generation system that gives you just   enough details to get on with the game.</p><p>A city is just a large group of people, right? You already know how to roll up   a character, so why not roll up a city in the same way? With a minimal amount of tweaking,   you can use the same six stats (Strength, Dexterity, Constitution, Intelligence,   Wisdom, and Charisma) that are used to describe characters to quickly detail an entire   city. And to provide you with that old-school feeling, you roll up a city by rolling   3d6 in order.</p>
 
 <p><b>Strength:</b> The Strength characteristic of a city refers to the strength of its   defenses. This can be anything from fortifications to how large the army or militia is.   Examples:</p>
 
-<table><tbody>
+<table class="simple-table"><tbody>
 <tr>         <td>3</td>         <td>no defenses of any kind</td>       </tr>
 <tr>         <td>4,5</td>         <td>no fortifications, army = 1% of population</td>       </tr>
 <tr>         <td>6,7,8</td>         <td>ditch, moat, or partial wall around city, small keep possible, army = 2% of         population</td>       </tr>
@@ -15,7 +16,7 @@ title: Give Your Cities Some Character
 <tr>         <td>13,14,15</td>         <td>walled city with castle, army = 8% of population</td>       </tr>
 <tr>         <td>16,17</td>         <td>multiple walls around city with strong castle, army = 10% of population</td>       </tr>
 <tr>         <td>18</td>         <td>multiple walls around city with impregnable castle, army = 15% or more of         population</td>       </tr>
-</tbody>   </table><p><b>Dexterity:</b> This is a measure of the amount of personal freedom that the   citizens of this city has. It can also be used to determine how likely it is that the   players will be harassed by town guards, city officials, tax collectors, etc. while   they are in the city. Each day roll 3d6 and compare it to the city's   dexterity score. If the roll is greater, the players will be harassed in some way that   day. Examples:</p><table><tbody>
+</tbody>   </table><p><b>Dexterity:</b> This is a measure of the amount of personal freedom that the   citizens of this city has. It can also be used to determine how likely it is that the   players will be harassed by town guards, city officials, tax collectors, etc. while   they are in the city. Each day roll 3d6 and compare it to the city's   dexterity score. If the roll is greater, the players will be harassed in some way that   day. Examples:</p><table class="simple-table"><tbody>
 <tr>         <td>3</td>         <td>everyone is watched and questioned everywhere they go; very heavy taxes; no         weapons, armor or beasts allowed</td>       </tr>
 <tr>         <td>4,5</td>         <td>foreigners are watched and questioned everywhere they go; heavy taxes; no         military weapons, armor, or medium or larger beasts allowed</td>       </tr>
 <tr>         <td>6,7,8</td>         <td>foreigners are frequently questioned; heavy taxes; no large military weapons,         heavy armor, or medium or larger beasts allowed</td>       </tr>
@@ -25,7 +26,7 @@ title: Give Your Cities Some Character
 <tr>         <td>18</td>         <td>no government or laws - anarchy</td>       </tr>
 </tbody>   </table>
 
-<p><b>Constitution:</b> Constitution is a measure of the size of the city's population.   It can also be used as an indicator of how likely it is to find non-magical items for   sale. Roll the city's Constitution score or less on 3d6 to see if an   item is available. Items that cost 10gp or less should always be available and should   not require a roll. Apply a modifier to the roll of -10 for items with a value of 100gp   or less; -5 for items valued from 101gp to 500gp; +0 for items valued from 501gp to   1000gp; +5 for items valued from 1001gp to 5000gp; and +10 for items valued over   5000gp.</p><table><tbody>
+<p><b>Constitution:</b> Constitution is a measure of the size of the city's population.   It can also be used as an indicator of how likely it is to find non-magical items for   sale. Roll the city's Constitution score or less on 3d6 to see if an   item is available. Items that cost 10gp or less should always be available and should   not require a roll. Apply a modifier to the roll of -10 for items with a value of 100gp   or less; -5 for items valued from 101gp to 500gp; +0 for items valued from 501gp to   1000gp; +5 for items valued from 1001gp to 5000gp; and +10 for items valued over   5000gp.</p><table class="simple-table"><tbody>
 <tr>         <td>3</td>         <td>3,000 or less</td>       </tr>
 <tr>         <td>4</td>         <td>4,000</td>       </tr>
 <tr>         <td>5</td>         <td>5,000</td>       </tr>
@@ -42,7 +43,7 @@ title: Give Your Cities Some Character
 <tr>         <td>16</td>         <td>21,000 to 49,000</td>       </tr>
 <tr>         <td>17</td>         <td>50,000 to 100,000</td>       </tr>
 <tr>         <td>18</td>         <td>more than 100,000</td>       </tr>
-</tbody>   </table><p><b>Intelligence:</b> Intelligence measures how influential wizards and magic are in   the city. Examples:</p><table><tbody>
+</tbody>   </table><p><b>Intelligence:</b> Intelligence measures how influential wizards and magic are in   the city. Examples:</p><table class="simple-table"><tbody>
 <tr>         <td>3</td>         <td>no wizards; no arcane spell casting or items available</td>       </tr>
 <tr>         <td>4,5</td>         <td>only one or two wizards; up to 2nd level arcane spell casting; no magic items         available</td>       </tr>
 <tr>         <td>6,7,8</td>         <td>few wizards; up to 3rd level arcane spell casting; potions and scrolls         available</td>       </tr>
@@ -50,7 +51,7 @@ title: Give Your Cities Some Character
 <tr>         <td>13,14,15</td>         <td>wizards guild; up to 7th level arcane spell casting; potions, scrolls, wands,         rings, magic weapons and armor available</td>       </tr>
 <tr>         <td>16,17</td>         <td>wizard college; up to 9th level arcane spell casting; most magic items         available</td>       </tr>
 <tr>         <td>18</td>         <td>several wizard guilds and colleges; up to 9th level arcane spell casting; all         magic items available</td>       </tr>
-</tbody>   </table><p><b>Wisdom:</b> The Wisdom score details the place of religion in the city.   Examples:</p><table><tbody>
+</tbody>   </table><p><b>Wisdom:</b> The Wisdom score details the place of religion in the city.   Examples:</p><table class="simple-table"><tbody>
 <tr>         <td>3</td>         <td>no temples; no divine spell casting or items available</td>       </tr>
 <tr>         <td>4,5</td>         <td>only one or two temples; up to 2nd level divine spell casting; holy water         available</td>       </tr>
 <tr>         <td>6,7,8</td>         <td>           <p>temples for several major deities; up to 3rd level divine spell casting;           holy water and potions available</p></td>       </tr>
@@ -66,12 +67,12 @@ title: Give Your Cities Some Character
 <tr>         <td>13,14,15</td>         <td>crime is low and the citizens are happy; the city has several buildings or         parks that the citizens are proud of</td>       </tr>
 <tr>         <td>16,17</td>         <td>crime is rare and the citizens are very happy; the city has many buildings or         parks that the citizens are proud of</td>       </tr>
 <tr>         <td>18</td>         <td>crime is almost non-existent; citizens are extremely happy and proud of their         city; the city is filled with parks, beautiful buildings, fountains and         impressive statuary</td>       </tr>
-</tbody>   </table><p><b>Alignment:</b> Now that you have the city's stats rolled up,   you can use them to determine an overall alignment for the city. This is done by using   the Dexterity score for the Lawful/Chaotic axis and the Charisma score for the   Good/Evil axis.</p><table><tbody>
+</tbody>   </table><p><b>Alignment:</b> Now that you have the city's stats rolled up,   you can use them to determine an overall alignment for the city. This is done by using   the Dexterity score for the Lawful/Chaotic axis and the Charisma score for the   Good/Evil axis.</p><table class="simple-table"><tbody>
 <tr>         <th>Dexterity</th>         <th>Alignment</th>         <th>&nbsp;</th>         <th>Charisma</th>         <th>Alignment</th>       </tr>
 <tr>         <td>3-7</td>         <td>Lawful</td>         <td>&nbsp;</td>         <td>3-7</td>         <td>Evil</td>       </tr>
 <tr>         <td>8-13</td>         <td>Neutral</td>         <td>&nbsp;</td>         <td>8-13</td>         <td>Neutral</td>       </tr>
 <tr>         <td>14-18</td>         <td>Chaotic</td>         <td>&nbsp;</td>         <td>14-18</td>         <td>Good</td>       </tr>
-</tbody>   </table><p>For example- if a city has a Dexterity of 12 and a Charisma of 7, it would be   Neutral Evil in alignment.</p><p>A city's alignment is a good indicator of how harshly crime is   punished there. Examples:</p><table><tbody>
+</tbody>   </table><p>For example- if a city has a Dexterity of 12 and a Charisma of 7, it would be   Neutral Evil in alignment.</p><p>A city's alignment is a good indicator of how harshly crime is   punished there. Examples:</p><table class="simple-table"><tbody>
 <tr>         <td>&nbsp;</td>         <td><b>Murder</b></td>         <td><b>Robbery</b></td>       </tr>
 <tr>         <td><b>LG</b></td>         <td>imprisonment for life</td>         <td>imprisonment, branded</td>       </tr>
 <tr>         <td><b>NG</b></td>         <td>imprisonment</td>         <td>imprisonment</td>       </tr>
