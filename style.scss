@@ -147,7 +147,13 @@ table tbody tr:nth-child(odd){
 }
 
 table tbody tr td{
-    padding: 4px;	
+    padding: 4px;
+    font-size: 90%;
+}
+
+table.simple-table tbody tr td:first-child{
+    text-align: right;
+    font-weight: bold;
 }
 
 /*********************/
